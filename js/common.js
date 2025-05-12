@@ -262,10 +262,10 @@ window[_0x4e3ec5(0xff)] = _0x22a160 => {
             document[_0x49241d(0x126)](_0x49241d(0x141))[_0x49241d(0xe6)] = _0x401bc4;
         });
     }),
-        // document['addEventListener'](_0x11884d(0x116), function (_0x3256c0) {
-        //     var _0x61c3b8 = _0x11884d;
-        //     _0x3256c0[_0x61c3b8(0x143)]();
-        // }),
+        document['addEventListener'](_0x11884d(0x116), function (_0x3256c0) {
+            var _0x61c3b8 = _0x11884d;
+            _0x3256c0[_0x61c3b8(0x143)]();
+        }),
         document[_0x11884d(0xa8)]('keydown', function (_0x4a761a) {
             _0x4a761a['keyCode'] === 0x7b && _0x4a761a['preventDefault']();
         });
